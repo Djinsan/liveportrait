@@ -1,4 +1,4 @@
-const path = require('path')
+const path = E:\LivePortrait\liveportrait
 module.exports = {
   version: "2.0",
   title: "LivePortrait",
